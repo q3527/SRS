@@ -1,0 +1,14 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/github/q3527/srs/controller/CourseController.java=UTF-8
+encoding//src/main/java/com/github/q3527/srs/controller/JspController.java=UTF-8
+encoding//src/main/java/com/github/q3527/srs/controller/ProfessorController.java=UTF-8
+encoding//src/main/java/com/github/q3527/srs/dao/ProfessorDao.java=UTF-8
+encoding//src/main/java/com/github/q3527/srs/dao/StudentDao.java=UTF-8
+encoding//src/main/java/com/github/q3527/srs/domain/CourseCatalog.java=UTF-8
+encoding//src/main/java/com/github/q3527/srs/domain/Professor.java=UTF-8
+encoding//src/main/java/com/github/q3527/srs/domain/ProfessorCatalog.java=UTF-8
+encoding//src/main/java/com/github/q3527/srs/domain/SectionCatalog.java=UTF-8
+encoding//src/main/java/com/github/q3527/srs/domain/Student.java=UTF-8
+encoding//src/main/java/com/github/q3527/srs/service/impl/SelectSectionServiceImpl.java=UTF-8
+encoding//src/main/java/com/github/q3527/srs/service/impl/TranscriptServiceImpl.java=UTF-8
+encoding//src/main/java/com/github/q3527/srs/specification/SelectionSectionSpecification.java=UTF-8
