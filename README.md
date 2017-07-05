@@ -16,5 +16,5 @@
 ###数据库结构
 ![项目结构截图](Image/db.png)
 
+![项目结构截图](Image/er.png)
 
-![alt text](image/er.png)
