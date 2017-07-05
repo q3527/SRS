@@ -6,12 +6,15 @@
 
 
 ### 类图
-![alt text](https://github.com/q3527/SRS/master/image/类图.png)
+项目结构
+![项目结构截图](Image/类图.png)
+
 ###顺序图
-![alt text](https://github.com/q3527/SRS/master/image/选课顺序图.png)
+![项目结构截图](Image/选课顺序图.png)
+![项目结构截图](Image/修改选课顺序图.png)
 
-![alt text](https://github.com/q3527/SRS/master/image/修改选课顺序图.png)
 ###数据库结构
-![alt text](https://github.com/q3527/SRS/master/image/db.png)
+![项目结构截图](Image/db.png)
 
-![alt text](https://github.com/q3527/SRS/master/image/er.png)
+
+![alt text](image/er.png)
