@@ -1,7 +1,10 @@
 ﻿# SRS
 
 ### 系统框架
-![alt text](https://github.com/q3527/SRS/master/image/框架.png)
+
+![项目结构截图](Image/框架.png)
+
+
 ### 类图
 ![alt text](https://github.com/q3527/SRS/master/image/类图.png)
 ###顺序图
